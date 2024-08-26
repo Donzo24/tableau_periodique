@@ -1,0 +1,242 @@
+[
+    {
+        "nom": "Hydrogène",
+        "symbol": "H",
+        "numeroAtomique": "1",
+        "masseAtomique": "1.008",
+        "x": 1,
+        "y": 1
+    },
+    {
+        "nom": "Hélium",
+        "symbol": "He",
+        "numeroAtomique": "2",
+        "masseAtomique": "4.0026",
+        "x": 18,
+        "y": 1
+    },
+    {
+        "nom": "Lithium",
+        "symbol": "Li",
+        "numeroAtomique": "3",
+        "masseAtomique": "6.94",
+        "x": 1,
+        "y": 2
+    },
+    {
+        "nom": "Béryllium",
+        "symbol": "Be",
+        "numeroAtomique": "4",
+        "masseAtomique": "9.0122",
+        "x": 2,
+        "y": 2
+    },
+    {
+        "nom": "Bore",
+        "symbol": "B",
+        "numeroAtomique": "5",
+        "masseAtomique": "10.81",
+        "x": 13,
+        "y": 2
+    },
+    {
+        "nom": "Carbone",
+        "symbol": "C",
+        "numeroAtomique": "6",
+        "masseAtomique": "12.011",
+        "x": 14,
+        "y": 2
+    },
+    {
+        "nom": "Azote",
+        "symbol": "N",
+        "numeroAtomique": "7",
+        "masseAtomique": "14.007",
+        "x": 15,
+        "y": 2
+    },
+    {
+        "nom": "Oxygène",
+        "symbol": "O",
+        "numeroAtomique": "8",
+        "masseAtomique": "15.999",
+        "x": 16,
+        "y": 2
+    },
+    {
+        "nom": "Fluor",
+        "symbol": "F",
+        "numeroAtomique": "9",
+        "masseAtomique": "18.998",
+        "x": 17,
+        "y": 2
+    },
+    {
+        "nom": "Néon",
+        "symbol": "Ne",
+        "numeroAtomique": "10",
+        "masseAtomique": "20.180",
+        "x": 18,
+        "y": 2
+    },
+    {
+        "nom": "Sodium",
+        "symbol": "Na",
+        "numeroAtomique": "11",
+        "masseAtomique": "22.990",
+        "x": 1,
+        "y": 3
+    },
+    {
+        "nom": "Magnésium",
+        "symbol": "Mg",
+        "numeroAtomique": "12",
+        "masseAtomique": "24.305",
+        "x": 2,
+        "y": 3
+    },
+    {
+        "nom": "Aluminium",
+        "symbol": "Al",
+        "numeroAtomique": "13",
+        "masseAtomique": "26.982",
+        "x": 13,
+        "y": 3
+    },
+    {
+        "nom": "Silicium",
+        "symbol": "Si",
+        "numeroAtomique": "14",
+        "masseAtomique": "28.085",
+        "x": 14,
+        "y": 3
+    },
+    {
+        "nom": "Phosphore",
+        "symbol": "P",
+        "numeroAtomique": "15",
+        "masseAtomique": "30.974",
+        "x": 15,
+        "y": 3
+    },
+    {
+        "nom": "Soufre",
+        "symbol": "S",
+        "numeroAtomique": "16",
+        "masseAtomique": "32.06",
+        "x": 16,
+        "y": 3
+    },
+    {
+        "nom": "Chlore",
+        "symbol": "Cl",
+        "numeroAtomique": "17",
+        "masseAtomique": "35.45",
+        "x": 17,
+        "y": 3
+    },
+    {
+        "nom": "Argon",
+        "symbol": "Ar",
+        "numeroAtomique": "18",
+        "masseAtomique": "39.948",
+        "x": 18,
+        "y": 3
+    },
+    {
+        "nom": "Potassium",
+        "symbol": "K",
+        "numeroAtomique": "19",
+        "masseAtomique": "39.098",
+        "x": 1,
+        "y": 4
+    },
+    {
+        "nom": "Calcium",
+        "symbol": "Ca",
+        "numeroAtomique": "20",
+        "masseAtomique": "40.078",
+        "x": 2,
+        "y": 4
+    },
+    {
+        "nom": "Scandium",
+        "symbol": "Sc",
+        "numeroAtomique": "21",
+        "masseAtomique": "44.956",
+        "x": 3,
+        "y": 4
+    },
+    {
+        "nom": "Titane",
+        "symbol": "Ti",
+        "numeroAtomique": "22",
+        "masseAtomique": "47.867",
+        "x": 4,
+        "y": 4
+    },
+    {
+        "nom": "Vanadium",
+        "symbol": "V",
+        "numeroAtomique": "23",
+        "masseAtomique": "50.942",
+        "x": 5,
+        "y": 4
+    },
+    {
+        "nom": "Chrome",
+        "symbol": "Cr",
+        "numeroAtomique": "24",
+        "masseAtomique": "51.996",
+        "x": 6,
+        "y": 4
+    },
+    {
+        "nom": "Manganèse",
+        "symbol": "Mn",
+        "numeroAtomique": "25",
+        "masseAtomique": "54.938",
+        "x": 7,
+        "y": 4
+    },
+    {
+        "nom": "Fer",
+        "symbol": "Fe",
+        "numeroAtomique": "26",
+        "masseAtomique": "55.845",
+        "x": 8,
+        "y": 4
+    },
+    {
+        "nom": "Cobalt",
+        "symbol": "Co",
+        "numeroAtomique": "27",
+        "masseAtomique": "58.933",
+        "x": 9,
+        "y": 4
+    },
+    {
+        "nom": "Nickel",
+        "symbol": "Ni",
+        "numeroAtomique": "28",
+        "masseAtomique": "58.693",
+        "x": 10,
+        "y": 4
+    },
+    {
+        "nom": "Cuivre",
+        "symbol": "Cu",
+        "numeroAtomique": "29",
+        "masseAtomique": "63.546",
+        "x": 11,
+        "y": 4
+    },
+    {
+        "nom": "Zinc",
+        "symbol": "Zn",
+        "numeroAtomique": "30",
+        "masseAtomique": "65.38",
+        "x": 12,
+        "y": 4
+    }
+]
